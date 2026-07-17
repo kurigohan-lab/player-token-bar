@@ -1,0 +1,21 @@
+{
+  "id": "player-token-bar",
+  "title": "Player Token Bar",
+  "description": "A movable, configurable bar showing player-owned tokens in the active scene.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Your Name"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "esmodules": [
+    "scripts/player-token-bar.js"
+  ],
+  "styles": [
+    "styles/player-token-bar.css"
+  ]
+}
