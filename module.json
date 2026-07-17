@@ -20,5 +20,5 @@
   ],
   "url": "https://github.com/kurigohan-lab/player-token-bar",
   "manifest": "https://raw.githubusercontent.com/kurigohan-lab/player-token-bar/main/module.json",
-  "download": "https://github.com/kurigohan-lab/player-token-bar/archive/refs/tags/playertokenbarrelease.zip"
+  "download": "https://github.com/kurigohan-lab/player-token-bar/releases/download/playertokenbarrelease/player-token-bar.zip"
 }
